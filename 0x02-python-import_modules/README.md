@@ -1,6 +1,8 @@
 # Import & modules
 Project done during **Full Stack Software Engineering** at **ALX**. 
-It aims to learn how to import functions, how to create modules and how to use command line arguments in **Python**.
+* It aims to learn how to import functions,
+* How to create modules and 
+* How to use command line arguments in **Python**.
 
 ## Technologies
 * Shell Scripts are written in Bash
