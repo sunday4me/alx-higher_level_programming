@@ -1,27 +1,23 @@
-# Solution to tasks on 0x05. Python - Exceptions
+# Exceptions
 
-## Task 0:  Safe list printing
-Write a function that prints x elements of a list.
+Project done during **Software Engineering** at **ALX**. Learning about exceptions, how to use them, how to use errors and how to raise them in **Python**.
 
-- Prototype: def safe_print_list(my_list=[], x=0):
-- my_list can contain any type (integer, string, etc.)
-- All elements must be printed on the same line followed by a new line.
-- x represents the number of elements to print
-- x can be bigger than the length of my_list
-- Returns the real number of elements printed
-- You have to use try: / except:
-- You are not allowed to import any module
-- You are not allowed to use len()
+## Technologies
+* Python Scripts are written with Python 3
+* C files are compiled using `gcc`
+* Tested on Ubuntu 20.04 LTS
 
-## Task 1. Safe printing of an integers list
-Write a function that prints an integer with "{:d}".format().
-
-- Prototype: def safe_print_integer(value):
-- value can be any type (integer, string, etc.)
-- The integer should be printed followed by a new line
-- Returns True if value has been correctly printed (it means the value is an integer)
-- Otherwise, returns False
-- You have to use try: / except:
-- You have to use "{:d}".format() to print as integer
-- You are not allowed to import any module
-- You are not allowed to use type()
+## Files
+| Filename | Description |
+| -------- | ----------- |
+| `0-safe_print_list.py` | Function that prints `x` elements |
+| `1-safe_print_integer.py` | Function that prints an integer with `"{:d}".format()` |
+| `2-safe_print_list_integers.py` | Function that prints the first `x` elements of a list and only integers |
+| `3-safe_print_division.py` | Function that divides 2 integers and prints the result |
+| `4-list_division.py` | Function that divides element by element 2 lists |
+| `5-raise_exception.py` | Function that raises a type exception |
+| `6-raise_exception.py` | Function that raises a name exception with a message |
+| `100-safe_print_integer_err.py` | Function that prints an integer |
+| `101-safe_function.py` | Function that executes a function safely |
+| `102-magic_calculation.py` | Function that does exactly the same as a Python bytecode given |
+| `103-python.c` | C functions that print some basic info about Python lists, Python bytes objects and Python float objects |
