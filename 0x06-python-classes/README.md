@@ -21,3 +21,6 @@ Project done during **Full Stack Software Engineering** at **ALX**. Learn about 
 | `101-square.py` | Class `Square` that defines a square, based on `6-square.py` |
 | `102-square.py` | Class `Square` that defines a square, based on `4-square.py` |
 | `103-python.c` | Python Class that does exactly the same as a Python bytecode given |
+
+## Author
+Sunday JIMOH
