@@ -27,3 +27,6 @@ Project done during **Full Stack Software Engineering** at **ALX**. learning abo
 | `101-square_matrix_map.py` | Function that computes the square value of all integers of a matrix using `map` |
 | `102-complex_delete.py` | Function that deletes keys with a specific value in a dictionary |
 | `103-python.c` | C functions that print some basic info about Python lists and Python bytes object |
+
+## Author
+Sunday JIMOH
