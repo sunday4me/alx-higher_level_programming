@@ -1,5 +1,5 @@
 # Input/Output
-Project done during **Full Stack Software Engineering** at **ALX_AFRICA**. It aims to learn how to open, read, write and append files from a script in **Python**.
+Project done during **Full Stack Software Engineering** at **ALX**. It aims to learn how to open, read, write and append files from a script in **Python**.
 
 ## Technologies
 * Python Scripts are written with Python 3
@@ -21,3 +21,7 @@ Project done during **Full Stack Software Engineering** at **ALX_AFRICA**. It ai
 | `8-class_to_json.py` | `def class_to_json(obj):` |
 | `12-pascal_triangle.py` | `def pascal_triangle(n):` |
 | `100-append_after.py` | `def append_after(filename="", search_string="", new_string=""):` |
+
+
+## Author
+Sunday JIMOH
