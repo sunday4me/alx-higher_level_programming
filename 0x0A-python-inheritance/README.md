@@ -23,3 +23,6 @@ Project done during **Full Stack Software Engineering** at **ALX**. It aims to l
 | `11-square.py` | Class `Square` that inherits from `Rectangle`, with `str()` method |
 | `100-my_int.py` | Class `MyInt` that inhertis from `int`. Its `==` and `!=` operators are inverted |
 | `101-add_attribute.py` | Function that adds a new attribute to an object if it's possible |
+
+## Author
+Sunday JIMOH
