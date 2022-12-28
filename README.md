@@ -1,4 +1,4 @@
-# alx-higher_level_programming
+![alt_text](https://miro.medium.com/max/840/1*RJMxLdTHqVBSijKmOO5MAg.jpeg)
 # Higher-level programming - Python
 Module of **High-level programming** and **Python**, carried out during **Full Stack Software Engineering** at **[ALX](https://alx-intranet.hbtn.io/)**.
 
