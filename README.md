@@ -29,7 +29,7 @@ All of the following folders are projects done during the studies:
 | [`0x0D-SQL_introduction`](https://github.com/Tecnophille/alx-higher_level_programming/tree/master/0x0E-SQL_more_queries) | It aims to learn about how to create a new user, manage privileges for a user, `PRIMARY KEY`, `FOREIGN KEY`, constraints, subqueries, `JOIN` and `UNION` with **MySQL** |
 | [`0x0E-SQL_more_queries`](https://github.com/Tecnophille/alx-higher_level_programming/tree/master/0x0E-SQL_more_queries) | It aims to learn about how to create a new user, manage privileges for a user, `PRIMARY KEY`, `FOREIGN KEY`, constraints, subqueries, `JOIN` and `UNION` with **MySQL** | tasks.
 
-**hello** link
+** hello ** link
 
 - help
 - helo
